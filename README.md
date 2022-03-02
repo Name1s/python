@@ -1,2 +1,2 @@
 # Hello Python
-abc123
+print(A:=True)
